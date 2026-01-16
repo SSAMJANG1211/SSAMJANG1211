@@ -8,6 +8,9 @@
   <br>
 
   <h2>📧 Contact </h2>
+  <a href="https://resilient-talon-189.notion.site/Heesang-Lee-2e75ba50572280a8af84cac84f934ad3?pvs=74" target="_blank">
+    <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
   <p><strong>Mail: heesang1211@naver.com</strong></p>
 
   <br>
@@ -21,7 +24,7 @@
 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack </h2>
 
-  <div align="center">
+  <div align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
