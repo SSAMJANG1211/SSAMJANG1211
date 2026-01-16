@@ -5,7 +5,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 About me </h2>
   <strong>게임 개발자를 꿈꾸는 컴퓨터공학과 재학생</strong>
 
-  <br>
+  <br><br>
 
   <h2>📧 Contact </h2>
   <div align="left">
