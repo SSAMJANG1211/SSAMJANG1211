@@ -12,7 +12,7 @@
     <a href="https://github.com/SSAMJANG1211" target="_blank">
       <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://resilient-talon-189.notion.site/Heesang-Lee-2e75ba50572280a8af84cac84f934ad3?pvs=74" target="_blank">
+    <a href="https://resilient-talon-189.notion.site/Heesang-Lee-2e75ba50572280a8af84cac84f934ad3?pvs=74" target="blank">
       <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
     </a>
   </div>
