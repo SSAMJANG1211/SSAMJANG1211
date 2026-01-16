@@ -16,9 +16,8 @@
     <a href="https://resilient-talon-189.notion.site/Heesang-Lee-2e75ba50572280a8af84cac84f934ad3?pvs=74">
       <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
     </a>
+    <strong>Mail: heesang1211@naver.com</strong>
   </div>
-
-  <strong>Mail: heesang1211@naver.com</strong>
 
   <br>
   
