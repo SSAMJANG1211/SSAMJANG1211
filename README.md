@@ -3,7 +3,7 @@
 <div align="left">
 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 About me </h2>
-  <p>게임 개발자를 꿈꾸는 컴퓨터공학과 재학생</p>
+  <strong>게임 개발자를 꿈꾸는 컴퓨터공학과 재학생</strong>
 
   <br>
 
@@ -18,17 +18,10 @@
     </a>
   </div>
 
-  <p><strong>Mail: heesang1211@naver.com</strong></p>
+  <strong>Mail: heesang1211@naver.com</strong>
 
   <br>
-
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 BaekJoon </h2>
-  <a href="https://solved.ac/heesang1211">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=heesang1211" />
-  </a>
-
-  <br><br>
-
+  
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack </h2>
 
   <div align="left">
@@ -40,6 +33,13 @@
   </div>
 
   <br>
+
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 BaekJoon </h2>
+  <a href="https://solved.ac/heesang1211">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=heesang1211" />
+  </a>
+
+  <br><br>
 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat </h2>
   <img
