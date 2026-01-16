@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1414b8&height=300&section=header&text=SSAMJANG&fontSize=75&fontAlign=70)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSAMJANG1211)](https://github.com/SSAMJANG1211/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSAMJANG1211&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSAMJANG1211)](https://github.com/SSAMJANG1211/github-readme-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heesang1211)](https://solved.ac/heesang1211)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SSAMJANG1211&theme=dark)](https://git.io/streak-stats)
