@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1414b8&height=300&section=header&text=SSAMJANG&fontSize=75&fontAlign=70)
-<div align= "center">
+<div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 About me 🧑‍💻 </h2>
     <div align= "center"> 
          <p>게임 개발자를 꿈꾸는 컴퓨터공학과 재학생</p>
           </div><br>
-    <div align= "center">  </div> 
+    <div align= "left">  </div> 
     <h2 align="center">📧 Email 📧</h2>
 <p align="center">
 <Strong> heesang1211@naver.com </Strong>
