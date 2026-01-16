@@ -32,10 +32,9 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack </h2>
 
   <div align="left">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2BlogoColor=white">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
     <br/>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
