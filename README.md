@@ -20,6 +20,7 @@
     <strong>Mail: heesang1211@naver.com</strong>
   </div>
 
+  <br>
   
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack </h2>
 
