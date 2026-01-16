@@ -2,3 +2,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSAMJANG1211)](https://github.com/SSAMJANG1211/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSAMJANG1211)](https://github.com/SSAMJANG1211/github-readme-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heesang1211)](https://solved.ac/heesang1211)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SSAMJANG1211&theme=dark)](https://git.io/streak-stats)
