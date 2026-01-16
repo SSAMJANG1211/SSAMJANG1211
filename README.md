@@ -34,3 +34,4 @@
     <br>
     </div>
 </div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=1414b8&height=200&section=footer)
