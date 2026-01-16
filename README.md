@@ -1,13 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1414b8&height=300&section=header&text=SSAMJANG&fontSize=75&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1414b8&height=200&section=header&text=SSAMJANG&fontSize=75&fontAlign=70)
 
 <div align="left">
 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 About me 🧑‍💻 </h2>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 About me </h2>
   <p>게임 개발자를 꿈꾸는 컴퓨터공학과 재학생</p>
 
   <br>
 
-  <h2>📧 Contact 📧</h2>
+  <h2>📧 Contact </h2>
   <p><strong>Mail: heesang1211@naver.com</strong></p>
 
   <br>
@@ -19,7 +19,7 @@
 
   <br><br>
 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack </h2>
 
   <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -37,7 +37,7 @@
 
   <br>
 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat </h2>
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SSAMJANG1211&theme=react&line_height=40&hide=css"
     align="center"
