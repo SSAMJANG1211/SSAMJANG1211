@@ -5,9 +5,9 @@
          <p>게임 개발자를 꿈꾸는 컴퓨터공학과 재학생</p>
     </div>
     <br> 
-    <h2 align="left">📧 Email 📧</h2>
+    <h2 align="left">📧 Contact 📧</h2>
     <p align="left">
-        <Strong> heesang1211@naver.com </Strong>
+        <Strong> Mail: heesang1211@naver.com </Strong>
     </p>    
     <br>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> BaekJoon </h2>
