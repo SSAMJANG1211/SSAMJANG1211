@@ -26,6 +26,5 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSAMJANG1211&show_icons=true&theme=radical)    
-
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SSAMJANG1211&theme=react&line_height=40&hide=css"/> </a>
 <br>
