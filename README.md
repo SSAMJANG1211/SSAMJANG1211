@@ -1,15 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1414b8&height=300&section=header&text=SSAMJANG&fontSize=75&fontAlign=70)
 <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 About me 🧑‍💻 </h2>
-    <div align= "center"> 
+    <div align= "left"> 
          <p>게임 개발자를 꿈꾸는 컴퓨터공학과 재학생</p>
-          </div><br>
-    <div align= "left">  </div> 
-    <h2 align="center">📧 Email 📧</h2>
-<p align="center">
+          </div><br> 
+    <h2 align="left">📧 Email 📧</h2>
+<p align="left">
 <Strong> heesang1211@naver.com </Strong>
 </p><br>
-<div align= "center">
+<div align= left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
@@ -23,7 +22,7 @@
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           </div>
     </div><br>
-<div align= "center">
+<div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
     
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SSAMJANG1211&theme=react&line_height=40&hide=css"/> </a>
