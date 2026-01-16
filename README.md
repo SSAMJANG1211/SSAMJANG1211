@@ -1,5 +1,4 @@
- <div class="header">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=YeonJin's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="YeonJin's GitHub">
+![header](https://capsule-render.vercel.app/api?type=waving&color=1414b8&height=300&section=header&text=SSAMJANG&fontSize=75&fontAlign=70)
     </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
